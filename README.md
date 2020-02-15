@@ -21,7 +21,7 @@ Redux Toolkit includes:
 
 ## Example
 
-```
+```js
 const { createServer } = require('koa-toolkit');
 
 const app = createServer();
