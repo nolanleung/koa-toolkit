@@ -23,3 +23,7 @@ exports.createServer = (options = {}) => {
 
   return app;
 };
+
+exports.createRouter = (options = {}) => {
+  return new Router(options);
+};

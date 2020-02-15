@@ -18,6 +18,7 @@ This package is currently under development, so PRs are welcome and encouraged!
 Redux Toolkit includes:
 
 - A `createServer(port, callback)` function that returns a new Koa instance with routing and body parsing middleware.
+- A  `createRouter(options)` function that returns a new koa router
 
 ## Example
 
